@@ -4,7 +4,7 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>Facebook - Meld je aan of registreer je</title>
+    <title>Feesboek - Meld je aan of registreer je</title>
     <meta name="viewport" content="user-scalable=no,initial-scale=1.0001,maximum-scale=1.0001,viewport-fit=cover">
     <link href="https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/a36n03MSzp1.png" rel="apple-touch-icon-precomposed" sizes="120x120">
     <meta name="referrer" content="default" id="meta_referrer">
@@ -18,11 +18,11 @@
 
 <body tabindex="0" class="touch x2 ios sf mSafari _fzu _50-3 iframe acw portrait" style="min-height: 735px; background-color: rgb(255, 255, 255);">
     <div id="viewport" data-kaios-focus-transparent="1" style="min-height: 735px;">
-        <h1 style="display:block;height:0;overflow:hidden;position:absolute;width:0;padding:0">Facebook</h1>
+        <h1 style="display:block;height:0;overflow:hidden;position:absolute;width:0;padding:0">Feesboek</h1>
         <div id="page" class="">
             <div class="_129_" id="header-notices"></div>
             <div class="_7om2 _52we _52z5" id="header">
-                <div class="_4g34 _52z6" data-sigil="mChromeHeaderCenter"><a href="https://m.facebook.com/login/?refid=8"><i class="img sp_sJW2P2tLEpz_2x sx_a537e4"><u>facebook</u></i></a></div>
+                <div class="_4g34 _52z6" data-sigil="mChromeHeaderCenter"><a href="https://m.facebook.com/login/?refid=8"><i class="img sp_sJW2P2tLEpz_2x sx_a537e4"><u>Feesboek</u></i></a></div>
             </div>
             <div class="_5soa acw" id="root" role="main" data-sigil="context-layer-root content-pane" style="min-height: 735px;">
                 <div class="_7om2">
@@ -35,7 +35,7 @@
                                 <div class="_qw9 grouped aclb">
                                     <a href="https://m.facebook.com/click.php?redir_url=http%3A%2F%2Fitunes.apple.com%2Fapp%2Ffacebook%2Fid284882215%3Freferrer_params%255Blink_source%255D%3Dfb_app_banner&amp;app_id=6628568379&amp;cref=mb&amp;no_fw=1&amp;refid=8" target="_top" class="touchableArea first last area touchable acy apl abt abb" data-sigil="touchable marea">
                                         <div class="ib cc"><i class="img l img _2sxw" style="background-image: url(&#39;https\3a //static.xx.fbcdn.net/rsrc.php/v3/yP/r/JJsC9S33ata.png&#39;);background-repeat:no-repeat;background-size:100% 100%;-webkit-background-size:100% 100%;width:18px;height:32px;"></i>
-                                            <div class="c"><span class="fcl">Installeer Facebook voor iPhone en surf sneller.</span></div>
+                                            <div class="c"><span class="fcl">Installeer Feesboek voor iPhone en surf sneller.</span></div>
                                         </div>
                                     </a>
                                 </div>
@@ -130,7 +130,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="_5ui4"><span class="mfss fcg">Facebook, Inc.</span></div>
+                        <div class="_5ui4"><span class="mfss fcg">Feesboek, Inc.</span></div>
                     </div>
                 </div>
             </div>
@@ -177,9 +177,6 @@
                 </div>Laden...</div>
         </div>
     </div>
-    <link rel="preload" href="./Facebook - Meld je aan of registreer je_files/ycKM-0cVxwH.js.download" as="script">
-    <link rel="preload" href="./Facebook - Meld je aan of registreer je_files/PY1DH87KV_E.js.download" as="script">
-    <link rel="preload" href="./Facebook - Meld je aan of registreer je_files/oUIbtw1b6Wv.js.download" as="script">
 </body>
 
 </html>
